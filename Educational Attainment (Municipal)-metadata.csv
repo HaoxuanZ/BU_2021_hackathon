@@ -1,0 +1,177 @@
+name,alias,details
+join_key,Geographic Identifier,muni_id
+title,Title,Educational Attainment Overall and by Gender
+alt_title,Alternate Title,Educational Attainment by Gender
+tbl_table,Table Name,b15002_educational_attainment_acs_m
+tbl_num,Table number from source data,b15002
+geography,Spatial Geography,Municipalities
+descriptn,Description,Educational attainment by gender for population 25 years and over
+datesavail,Dates Available,5yr Avg 2005-09 through 2012-16
+coverage,Coverage,Statewide
+universe,Universe,Population 25 years and over
+creator,Creator/Source,US Census: American Community Survey
+publisher,Publisher,MAPC
+contributr,Contributors,null
+createdate,CreationDate,null
+moddate,ModificationDate,2017-10
+muni_id,Municipal ID,null
+municipal,Municipality,null
+geoid,Census Geographic Level ID,null
+logrecno,Census Logical Record Number,null
+acs_year,ACS Years,null
+nohs,No High School,Includes male and female groupings for: no schooling completed; Nursery to 4th grade; 5th and 6th grade; 7th and 8th grade
+nohs_me,No High School; Margin of Error,
+lths,Less than High School Graduate,Includes male and female groupings for: no schooling completed; Nursery to 4th grade; 5th and 6th grade; 7th and 8th grade;9th grade;10th grade;11th grade;12th grade no diploma
+lths_me,Less than High School Graduate; Margin of Error,
+hs,High School Graduate,Includes male and female groupings for: High school graduate; GED or alternative
+hs_me,High School Graduate; Margin of Error,
+sc,Some College,Includes male and female groupings for: Some college less than 1 year; Some college 1 or more years but no degree
+sc_me,Some College; Margin of Error,
+assoc,Associate Degree,Includes male and female groupings for: Associates degree
+assocme,Associate Degree; Margin of Error,
+asba,Associate or Bachelor Degree,Includes male and female groupings for: Associates degree; Bachelors degree
+asba_me,Associate or Bachelor Degree; Margin of Error,
+aspl,Associate Degree or higher,Includes male and female groupings for: Associates degree; Bachelors degree; Masters degree; Professional school degree; Doctorate degree
+aspl_me,Associate Degree or higher; Margin of Error,
+ba,Bachelor Degree,Includes male and female groupings for:  Bachelors degree
+ba_me,Bachelor Degree; Margin of Error,
+bapl,Bachelor Degree or higher,Includes male and female groupings for: Bachelors degree; Masters degree; Professional school degree; Doctorate degree
+bapl_me,Bachelor Degree or higher; Margin of Error,
+mast,Master Degree,Includes male and female groupings for: Masters degree; Professional school degree; Doctorate degree
+mast_me,Master Degree; Margin of Error,
+prof,Professional School Degree,Includes male and female groupings for: Professional school degree
+prof_me,Professional School Degree; Margin of Error,
+doc,Doctorate Degree,Includes male and female groupings for: Doctorate degree
+doc_me,Doctorate Degree; Margin of Error,
+mpl,Master Degree or Higher,Includes male and female groupings for: Masters degree; Professional school degree; Doctorate degree
+mpl_me,Master Degree or Higher; Margin of Error,
+nohs_p,% No High School,Denominator: Population 25 years and over. Includes male and female groupings for: no schooling completed; Nursery to 4th grade; 5th and 6th grade; 7th and 8th grade
+nohs_mep,% No High School; Margin of Error,
+lths_p,% Less than High School Graduate,Denominator: Population 25 years and over. Includes male and female groupings for: no schooling completed; Nursery to 4th grade; 5th and 6th grade; 7th and 8th grade;9th grade;10th grade;11th grade;12th grade no diploma
+lths_mep,% Less than High School Graduate; Margin of Error,
+hs_p,% High School Graduate,Denominator: Population 25 years and over. Includes male and female groupings for: High school graduate; GED or alternative
+hs_mep,% High School Graduate; Margin of Error,
+sc_p,% Some College,Denominator: Population 25 years and over. Includes male and female groupings for: Some college less than 1 year; Some college 1 or more years but no degree
+sc_mep,% Some College; Margin of Error,
+assoc_p,% Associate Degree,Denominator: Population 25 years and over. Includes male and female groupings for: Associates degree
+assocmep,% Associate Degree; Margin of Error,
+asba_p,% Associate or Bachelor Degree,Denominator: Population 25 years and over. Includes male and female groupings for: Associates degree; Bachelors degree
+asba_mep,% Associate or Bachelor Degree; Margin of Error,
+aspl_p,% Associate Degree or higher,Denominator: Population 25 years and over. Includes male and female groupings for: Associates degree; Bachelors degree; Masters degree; Professional school degree; Doctorate degree
+aspl_mep,% Associate Degree or higher; Margin of Error,
+ba_p,% Bachelor Degree,Denominator: Population 25 years and over. Includes male and female groupings for:  Bachelors degree
+ba_mep,% Bachelor Degree; Margin of Error,
+bapl_p,% Bachelor Degree or higher,Denominator: Population 25 years and over. Includes male and female groupings for: Bachelors degree; Masters degree; Professional school degree; Doctorate degree
+bapl_mep,% Bachelor Degree or higher; Margin of Error,
+mast_p,% Master Degree,Denominator: Population 25 years and over. Includes male and female groupings for: Masters degree; Professional school degree; Doctorate degree
+mast_mep,% Master Degree; Margin of Error,
+prof_p,% Professional School Degree,Denominator: Population 25 years and over. Includes male and female groupings for: Professional school degree
+prof_mep,% Professional School Degree; Margin of Error,
+doc_p,% Doctorate Degree,Denominator: Population 25 years and over. Includes male and female groupings for: Doctorate degree
+doc_mep,% Doctorate Degree; Margin of Error,
+mpl_p,% Master Degree or Higher,Denominator: Population 25 years and over. Includes male and female groupings for: Masters degree; Professional school degree; Doctorate degree
+mpl_mep,% Master Degree or Higher; Margin of Error,
+m_nohs,Males with No High School,Males including: no schooling completed; Nursery to 4th grade; 5th and 6th grade; 7th and 8th grade
+m_nohs_me,Males with No High School; Margin of Error,
+m_lths,Males with Less than High School Graduate,Males including: no schooling completed; Nursery to 4th grade; 5th and 6th grade; 7th and 8th grade;9th grade;10th grade;11th grade;12th grade no diploma
+m_lths_me,Males with Less than High School Graduate; Margin of Error,
+m_hs,Males with High School Graduate,Males including: High school graduate; GED or alternative
+m_hs_me,Males with High School Graduate; Margin of Error,
+m_sc,Males with Some College,Males including: Some college less than 1 year; Some college 1 or more years but no degree
+m_sc_me,Males with Some College; Margin of Error,
+m_assoc,Males with Associate Degree,Males including: Associates degree
+m_assocme,Males with Associate Degree; Margin of Error,
+m_asba,Males with Associate or Bachelor Degree,Males including: Associates degree; Bachelors degree
+m_asba_me,Males with Associate or Bachelor Degree; Margin of Error,
+m_aspl,Males with Associate Degree or higher,Males including: Associates degree; Bachelors degree; Masters degree; Professional school degree; Doctorate degree
+m_aspl_me,Males with Associate Degree or higher; Margin of Error,
+m_ba,Males with Bachelor Degree,Males including:  Bachelors degree
+m_ba_me,Males with Bachelor Degree; Margin of Error,
+m_bapl,Males with Bachelor Degree or higher,Males including: Bachelors degree; Masters degree; Professional school degree; Doctorate degree
+m_bapl_me,Males with Bachelor Degree or higher; Margin of Error,
+m_mast,Males with Master Degree,Males including: Masters degree; Professional school degree; Doctorate degree
+m_mast_me,Males with Master Degree; Margin of Error,
+m_prof,Males with Professional School Degree,Males including: Professional school degree
+m_prof_me,Males with Professional School Degree; Margin of Error,
+m_doc,Males with Doctorate Degree,Males including: Doctorate degree
+m_doc_me,Males with Doctorate Degree; Margin of Error,
+m_mpl,Males with Master Degree or Higher,Males including: Masters degree; Professional school degree; Doctorate degree
+m_mpl_me,Males with Master Degree or Higher; Margin of Error,
+m_nohs_p,% Males with No High School,Denominator: Males  25 years and over. Numerator includes: no schooling completed; Nursery to 4th grade; 5th and 6th grade; 7th and 8th grade
+m_nohs_mep,% Males with No High School; Margin of Error,
+m_lths_p,% Males with Less than High School Graduate,Denominator: Males  25 years and over. Numerator includes: no schooling completed; Nursery to 4th grade; 5th and 6th grade; 7th and 8th grade;9th grade;10th grade;11th grade;12th grade no diploma
+m_lths_mep,% Males with Less than High School Graduate; Margin of Error,
+m_hs_p,% Males with High School Graduate,Denominator: Males  25 years and over. Numerator includes: High school graduate; GED or alternative
+m_hs_mep,% Males with High School Graduate; Margin of Error,
+m_sc_p,% Males with Some College,Denominator: Males  25 years and over. Numerator includes: Some college less than 1 year; Some college 1 or more years but no degree
+m_sc_mep,% Males with Some College; Margin of Error,
+m_assoc_p,% Males with Associate Degree,Denominator: Males  25 years and over. Numerator includes: Associates degree
+m_assocmep,% Males with Associate Degree; Margin of Error,
+m_asba_p,% Males with Associate or Bachelor Degree,Denominator: Males  25 years and over. Numerator includes: Associates degree; Bachelors degree
+m_asba_mep,% Males with Associate or Bachelor Degree; Margin of Error,
+m_aspl_p,% Males with Associate Degree or higher,Denominator: Males  25 years and over. Numerator includes: Associates degree; Bachelors degree; Masters degree; Professional school degree; Doctorate degree
+m_aspl_mep,% Males with Associate Degree or higher; Margin of Error,
+m_ba_p,% Males with Bachelor Degree,Denominator: Males  25 years and over. Numerator includes:  Bachelors degree
+m_ba_mep,% Males with Bachelor Degree; Margin of Error,
+m_bapl_p,% Males with Bachelor Degree or higher,Denominator: Males  25 years and over. Numerator includes: Bachelors degree; Masters degree; Professional school degree; Doctorate degree
+m_bapl_mep,% Males with Bachelor Degree or higher; Margin of Error,
+m_mast_p,% Males with Master Degree,Denominator: Males  25 years and over. Numerator includes: Masters degree; Professional school degree; Doctorate degree
+m_mast_mep,% Males with Master Degree; Margin of Error,
+m_prof_p,% Males with Professional School Degree,Denominator: Males  25 years and over. Numerator includes: Professional school degree
+m_prof_mep,% Males with Professional School Degree; Margin of Error,
+m_doc_p,% Males with Doctorate Degree,Denominator: Males  25 years and over. Numerator includes: Doctorate degree
+m_doc_mep,% Males with Doctorate Degree; Margin of Error,
+m_mpl_p,% Males with Master Degree or Higher,Denominator: Males  25 years and over. Numerator includes: Masters degree; Professional school degree; Doctorate degree
+m_mpl_mep,% Males with Master Degree or Higher; Margin of Error,
+f_nohs,Females with No High School,Females including: no schooling completed; Nursery to 4th grade; 5th and 6th grade; 7th and 8th grade
+f_nohs_me,Females with No High School; Margin of Error,
+f_lths,Females with Less than High School Graduate,Females including: no schooling completed; Nursery to 4th grade; 5th and 6th grade; 7th and 8th grade;9th grade;10th grade;11th grade;12th grade no diploma
+f_lths_me,Females with Less than High School Graduate; Margin of Error,
+f_hs,Females with High School Graduate,Females including: High school graduate; GED or alternative
+f_hs_me,Females with High School Graduate; Margin of Error,
+f_sc,Females with Some College,Females including: Some college less than 1 year; Some college 1 or more years but no degree
+f_sc_me,Females with Some College; Margin of Error,
+f_assoc,Females with Associate Degree,Females including: Associates degree
+f_assocme,Females with Associate Degree; Margin of Error,
+f_asba,Females with Associate or Bachelor Degree,Females including: Associates degree; Bachelors degree
+f_asba_me,Females with Associate or Bachelor Degree; Margin of Error,
+f_aspl,Females with Associate Degree or higher,Females including: Associates degree; Bachelors degree; Masters degree; Professional school degree; Doctorate degree
+f_aspl_me,Females with Associate Degree or higher; Margin of Error,
+f_ba,Females with Bachelor Degree,Females including:  Bachelors degree
+f_ba_me,Females with Bachelor Degree; Margin of Error,
+f_bapl,Females with Bachelor Degree or higher,Females including: Bachelors degree; Masters degree; Professional school degree; Doctorate degree
+f_bapl_me,Females with Bachelor Degree or higher; Margin of Error,
+f_mast,Females with Master Degree,Females including: Masters degree; Professional school degree; Doctorate degree
+f_mast_me,Females with Master Degree; Margin of Error,
+f_prof,Females with Professional School Degree,Females including: Professional school degree
+f_prof_me,Females with Professional School Degree; Margin of Error,
+f_doc,Females with Doctorate Degree,Females including: Doctorate degree
+f_doc_me,Females with Doctorate Degree; Margin of Error,
+f_mpl,Females with Master Degree or Higher,Females including: Masters degree; Professional school degree; Doctorate degree
+f_mpl_me,Females with Master Degree or Higher; Margin of Error,
+f_nohs_p,% Females with No High School,Denominator: Females  25 years and over. Numerator includes: no schooling completed; Nursery to 4th grade; 5th and 6th grade; 7th and 8th grade
+f_nohs_mep,% Females with No High School; Margin of Error,
+f_lths_p,% Females with Less than High School Graduate,Denominator: Females  25 years and over. Numerator includes: no schooling completed; Nursery to 4th grade; 5th and 6th grade; 7th and 8th grade;9th grade;10th grade;11th grade;12th grade no diploma
+f_lths_mep,% Females with Less than High School Graduate; Margin of Error,
+f_hs_p,% Females with High School Graduate,Denominator: Females  25 years and over. Numerator includes: High school graduate; GED or alternative
+f_hs_mep,% Females with High School Graduate; Margin of Error,
+f_sc_p,% Females with Some College,Denominator: Females  25 years and over. Numerator includes: Some college less than 1 year; Some college 1 or more years but no degree
+f_sc_mep,% Females with Some College; Margin of Error,
+f_assoc_p,% Females with Associate Degree,Denominator: Females  25 years and over. Numerator includes: Associates degree
+f_assocmep,% Females with Associate Degree; Margin of Error,
+f_asba_p,% Females with Associate or Bachelor Degree,Denominator: Females  25 years and over. Numerator includes: Associates degree; Bachelors degree
+f_asba_mep,% Females with Associate or Bachelor Degree; Margin of Error,
+f_aspl_p,% Females with Associate Degree or higher,Denominator: Females  25 years and over. Numerator includes: Associates degree; Bachelors degree; Masters degree; Professional school degree; Doctorate degree
+f_aspl_mep,% Females with Associate Degree or higher; Margin of Error,
+f_ba_p,% Females with Bachelor Degree,Denominator: Females  25 years and over. Numerator includes:  Bachelors degree
+f_ba_mep,% Females with Bachelor Degree; Margin of Error,
+f_bapl_p,% Females with Bachelor Degree or higher,Denominator: Females  25 years and over. Numerator includes: Bachelors degree; Masters degree; Professional school degree; Doctorate degree
+f_bapl_mep,% Females with Bachelor Degree or higher; Margin of Error,
+f_mast_p,% Females with Master Degree,Denominator: Females  25 years and over. Numerator includes: Masters degree; Professional school degree; Doctorate degree
+f_mast_mep,% Females with Master Degree; Margin of Error,
+f_prof_p,% Females with Professional School Degree,Denominator: Females  25 years and over. Numerator includes: Professional school degree
+f_prof_mep,% Females with Professional School Degree; Margin of Error,
+f_doc_p,% Females with Doctorate Degree,Denominator: Females  25 years and over. Numerator includes: Doctorate degree
+f_doc_mep,% Females with Doctorate Degree; Margin of Error,
+f_mpl_p,% Females with Master Degree or Higher,Denominator: Females  25 years and over. Numerator includes: Masters degree; Professional school degree; Doctorate degree
+f_mpl_mep,% Females with Master Degree or Higher; Margin of Error,
